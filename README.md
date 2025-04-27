@@ -48,4 +48,4 @@ Este repositório apresenta os materiais desenvolvidos durante o Estágio Superv
 
 ## 📆 Período do Estágio
 
-13 de maio de 2019 a 2 de agosto de 2019
+Maio de 2019 a agosto de 2019
