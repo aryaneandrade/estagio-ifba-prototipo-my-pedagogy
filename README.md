@@ -25,10 +25,21 @@ Este repositório apresenta os materiais desenvolvidos durante o Estágio Superv
 
 ## 📄 Conteúdos do Repositório
 
-- 📑 Documentação de Casos de Uso
-- 🛢️ Modelo Conceitual do Banco de Dados
+- 📑 Casos de Uso
+  
+ ![Captura de tela de 2025-04-27 20-40-13](https://github.com/user-attachments/assets/0dbff0b7-5b8c-42e0-88ec-ef7ce24d8d8f)
+ 
+
 - 🎨 Protótipo da Tela de Conselho Diagnóstico (HTML/CSS)
-- 🧪 Relatórios de Casos de Testes
+  
+![Captura de tela de 2025-04-27 20-39-29](https://github.com/user-attachments/assets/8ff0480c-1ddb-4df8-82ec-d026f699e3e1)
+
+  
+- 🛢️ Modelo Conceitual do Banco de Dados
+
+  ![Captura de tela de 2025-04-27 20-44-25](https://github.com/user-attachments/assets/63680cd4-8740-407c-b264-ee927e9b0861)
+
+
 
 ---
 
@@ -48,4 +59,4 @@ Este repositório apresenta os materiais desenvolvidos durante o Estágio Superv
 
 ## 📆 Período do Estágio
 
-Maio de 2019 a agosto de 2019
+13 de maio de 2019 a 2 de agosto de 2019
