@@ -54,9 +54,3 @@ Este repositório apresenta os materiais desenvolvidos durante o Estágio Superv
 **Aryane Santos Andrade**  
 **Orientador:** Prof. Rafael Xavier de Oliveira Souza  
 **Carga Horária:** 150 horas  
-
----
-
-## 📆 Período do Estágio
-
-13 de maio de 2019 a 2 de agosto de 2019
